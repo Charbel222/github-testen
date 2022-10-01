@@ -99,4 +99,5 @@ git push
 </body>
 </html>
 ```
-`[click](https://training.github.com/downloads/de/github-git-cheat-sheet/)`
+
+[HERE CKLICK](https://training.github.com/downloads/de/github-git-cheat-sheet/)
